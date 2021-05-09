@@ -1,7 +1,7 @@
 ![never_stop_learning](https://user-images.githubusercontent.com/414141/106642281-3bfcba00-65b0-11eb-94e6-17b86d03d756.png)
 
 
-# Learn With @codeanit
+# Readers' Club
 
 Learning should be open and fun and only then it can 
 add value. To make it fun, the learning envirionment
@@ -14,7 +14,11 @@ as you see fit.
 
 
 ### About The Repository
-[Issues](https://github.com/learnwithanit/learnwithanit.github.io/issues) is the main learning management system. 
+An open sourced collaborative approach to learning 
+using Github as the learning mamangement platform. 
+Read with me, @codeanit. 
+
+[Issues](https://github.com/learnwithanit/readersclub.github.io/issues) is the main learning management system. 
 The topic are mainly tech related but could be anything 
 random.
 
