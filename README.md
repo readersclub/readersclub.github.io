@@ -1,4 +1,4 @@
-![never_stop_learning](https://user-images.githubusercontent.com/414141/106642281-3bfcba00-65b0-11eb-94e6-17b86d03d756.png)
+![readers-club](https://user-images.githubusercontent.com/414141/117580246-d7a14780-b116-11eb-8cbe-9d708f66234b.png)
 
 
 # Readers' Club
