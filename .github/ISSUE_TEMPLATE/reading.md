@@ -1,29 +1,20 @@
 ---
 name: Reading
 about: Create template for reading
-title: "[TITLE"
+title: "[TITLE]"
 labels: inprogress
-assignees: codeanit
-
----
-
----
-name: Reading
-about: Prepare to read a resource
-title: 'Reading'
-labels: 'backlog'
 assignees: codeanit
 
 ---
 
 # [TITLE]
 
-> Learning Preparation Tasks
+### Learning Preparation Tasks
 - [ ] Chapters Completion Checklist
 - [ ] Create course outline in README.md
 - [ ] Make issues for each chapter
-- [ ] Create [Repo](https://github.com/LearnWithAnit/...)
+- [ ] Create [Repo](https://github.com/readersclub/...)
 - [ ] Resource: ...
 
 
-# Chapters Completion Checklist
+# Chapters Checklist
